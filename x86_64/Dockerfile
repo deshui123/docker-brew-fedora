@@ -1,6 +1,6 @@
 FROM scratch
 MAINTAINER \
-[Adam Miller <maxamillion@fedoraproject.org>] \
+[Adam Miller <maxamillion@fedoraproject.ora>] \
 [Patrick Uiterwijk <patrick@puiterwijk.org>]
 ENV DISTTAG=f28container FGC=f28 FBR=f28
 ADD fedora-28-x86_64-20181106.tar.xz /
